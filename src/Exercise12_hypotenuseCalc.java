@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise11_hypotenuseCalc {
+public class Exercise12_hypotenuseCalc {
     public static void main(String[] args){
 
         // Hypotenuse c = Math.sqrt(a^2 + b^2)
